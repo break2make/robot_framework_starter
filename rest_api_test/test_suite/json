@@ -1,0 +1,34 @@
+{
+    "seconds": 0.907957,
+    "status": 200,
+    "body": {
+        "args": {},
+        "data": "{\"title\": \"My First Post\", \"content\": \"Hello All! I am here!\"}",
+        "files": {},
+        "form": {},
+        "headers": {
+            "Accept": "application/json",
+            "Accept-Encoding": "gzip, deflate",
+            "Content-Length": "62",
+            "Content-Type": "application/json",
+            "Host": "httpbin.org",
+            "User-Agent": "RESTinstance/1.1.0",
+            "X-Amzn-Trace-Id": "Root=1-6146eea7-7a884b5a448ff27d3c8fbe83"
+        },
+        "json": {
+            "content": "Hello All! I am here!",
+            "title": "My First Post"
+        },
+        "origin": "49.207.222.127",
+        "url": "https://httpbin.org/post"
+    },
+    "headers": {
+        "Date": "Sun, 19 Sep 2021 08:02:47 GMT",
+        "Content-Type": "application/json",
+        "Content-Length": "592",
+        "Connection": "keep-alive",
+        "Server": "gunicorn/19.9.0",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Credentials": "true"
+    }
+}

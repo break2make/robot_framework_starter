@@ -1,0 +1,14 @@
+{
+    "seconds": 0.922008,
+    "status": 404,
+    "body": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 3.2 Final//EN\">\n<title>404 Not Found</title>\n<h1>Not Found</h1>\n<p>The requested URL was not found on the server.  If you entered the URL manually please check your spelling and try again.</p>\n",
+    "headers": {
+        "Date": "Sun, 19 Sep 2021 08:09:17 GMT",
+        "Content-Type": "text/html",
+        "Content-Length": "233",
+        "Connection": "keep-alive",
+        "Server": "gunicorn/19.9.0",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Credentials": "true"
+    }
+}
